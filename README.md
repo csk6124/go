@@ -20,7 +20,9 @@ func main() {
 save 
 
 ### gopath 설정 
+`
 export GOPATH=`pwd`
+`
 
 ### go install hello
 go install hello
